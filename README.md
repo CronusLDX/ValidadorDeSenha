@@ -48,7 +48,7 @@ bash
 
 Copiar código
 
-git clone https://github.com/CronusLDX/validador-formulario.git
+git clone https://github.com/CronusLDX/ValidadorDeSenha.git
 
 Navegue até o diretório do projeto:
 
