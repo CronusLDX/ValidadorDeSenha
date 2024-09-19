@@ -1,4 +1,4 @@
-🚀 Projeto Validador de Senhas
+#🚀 Projeto Validador de Senhas
 Este projeto é uma implementação simples de um validador de formulário em JavaScript que verifica os seguintes campos: nome, senha e e-mail. O objetivo é garantir que o usuário preencha o formulário corretamente antes de submetê-lo, usando expressões regulares para validação.
 
 📝 Funcionalidades
