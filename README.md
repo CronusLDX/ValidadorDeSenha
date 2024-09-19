@@ -22,7 +22,7 @@ Validação de campos obrigatórios: Todos os campos devem estar preenchidos.
 
 📂 Estrutura do Projeto
 
-bash
+``bash
 
 Copiar código
 
@@ -48,7 +48,7 @@ bash
 
 Copiar código
 
-git clone https://github.com/SeuUsuario/validador-formulario.git
+git clone https://github.com/CronusLDX/validador-formulario.git
 
 Navegue até o diretório do projeto:
 
@@ -134,8 +134,8 @@ Se tiver dúvidas ou sugestões, entre em contato:
 
   
 
-Email: seuemail@exemplo.com
+Email: joaopedrobdfworks@gmail.com.
 
-GitHub: SeuNomeDeUsuário
+GitHub: CronusLDX.
 
 Feito  por CronusLDX.
